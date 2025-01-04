@@ -1,6 +1,8 @@
-Fragments in this directory are sufficient for the S22 and S66 databases, as reported in [S22 EFP paper](http://dx.doi.org/10.1021/ct200673a)
+## S22 and S66 EFP parameters 
 
-* "D" means homodimer
+Parameters for all molecules in S22 and S66 databases, as reported in [S22 EFP paper](http://dx.doi.org/10.1021/ct200673a)
+
+"D" means homodimer
 
 ### S22 Geometries from [S22 EFP paper](http://dx.doi.org/10.1039/b600027d)
 
@@ -18,7 +20,7 @@ Fragments in this directory are sufficient for the S22 and S66 databases, as rep
 * `thymine-wc.efp` S22: 7
 * `uracil.efp` S22: 5D, 13D
 
-### Geometries from [original S22 paper](http://dx.doi.org/10.1021/ct200673a)
+### Geometries from [original S22/S66 paper](http://dx.doi.org/10.1021/ct200673a)
 
 * `acetamide-gp.efp` S66: 53, 62
 * `acetamide-hb.efp` S66: 21D, 23

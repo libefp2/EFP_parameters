@@ -1,9 +1,8 @@
-Fragments in this directory are sufficient for the S22 and S66 databases, as reported in http://dx.doi.org/10.1021/ct200673a
+Fragments in this directory are sufficient for the S22 and S66 databases, as reported in [S22 EFP paper](http://dx.doi.org/10.1021/ct200673a)
 
 * "D" means homodimer
-* EFP fragments from https://github.com/makefp/EFP_potentials/tree/master/gamess
 
-### S22 Geometries from http://dx.doi.org/10.1039/b600027d
+### S22 Geometries from [S22 EFP paper](http://dx.doi.org/10.1039/b600027d)
 
 * `2aminopyridine.efp` S22: 6
 * `adenine-stack.efp` S22: 15
@@ -19,7 +18,7 @@ Fragments in this directory are sufficient for the S22 and S66 databases, as rep
 * `thymine-wc.efp` S22: 7
 * `uracil.efp` S22: 5D, 13D
 
-### Geometries from http://dx.doi.org/10.1021/ct200673a
+### Geometries from [original S22 paper](http://dx.doi.org/10.1021/ct200673a)
 
 * `acetamide-gp.efp` S66: 53, 62
 * `acetamide-hb.efp` S66: 21D, 23
